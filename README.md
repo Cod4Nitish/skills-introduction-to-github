@@ -3,6 +3,14 @@
 > [!NOTE]
 > **Archived GitHub Skills coursework.** This completed learning exercise is kept for history and is not part of the active portfolio.
 
+## What this exercise demonstrates
+
+- The basic GitHub workflow: repositories, commits, issues, branches, and pull requests.
+- Navigating a guided learning repository and completing its checkpoints.
+- A foundation for the documentation and collaboration practices used in later projects.
+
+The original course material is preserved below for transparency.
+
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
 Hey Cod4Nitish!
