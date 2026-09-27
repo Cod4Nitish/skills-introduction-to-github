@@ -14,6 +14,29 @@
 - Navigating a guided learning repository and completing its checkpoints.
 - A foundation for the documentation and collaboration practices used in later projects.
 
+## Course workflow
+
+~~~mermaid
+flowchart LR
+    A[Repository] --> B[Create a branch]
+    B --> C[Commit a file]
+    C --> D[Open a pull request]
+    D --> E[Review and merge]
+    E --> F[Complete exercise]
+~~~
+
+## Preserved checkpoints
+
+| Checkpoint | Repository evidence |
+| --- | --- |
+| Branches | .github/steps/1-create-a-branch.md |
+| Commits | .github/steps/2-commit-a-file.md |
+| Pull requests | .github/steps/3-open-a-pull-request.md |
+| Merging | .github/steps/4-merge-your-pull-request.md |
+| Automation | Step-specific GitHub Actions workflows in .github/workflows/ |
+
+This is a completed GitHub Skills course workspace, not a custom application. Its value is the visible learning path for the collaboration workflow used in later repositories.
+
 The original course material is preserved below for transparency.
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
