@@ -1,4 +1,9 @@
-# Introduction to GitHub
+<div align="center">
+  <h1>Introduction to GitHub</h1>
+  <p>GitHub Skills coursework · collaboration workflow foundations</p>
+  <img src="https://img.shields.io/badge/status-archived-6B7280?style=flat-square" alt="Status: archived" />
+  <img src="https://img.shields.io/badge/focus-GitHub%20fundamentals-0969DA?style=flat-square" alt="GitHub fundamentals" />
+</div>
 
 > [!NOTE]
 > **Archived GitHub Skills coursework.** This completed learning exercise is kept for history and is not part of the active portfolio.
